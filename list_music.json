@@ -1,10 +1,11 @@
-[
-    {
-        "name": "J.I.D - Surround Sound",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/J.I.D%20-%20Surround%20Sound.mp3"
-    },
-    {
-        "name": "J.I.D - Off Deez ft. J. Cole",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/J.I.D%20-%20Off%20Deez%20ft.%20J.%20Cole.mp3"
-    }
-]
+{
+    "name":"J.I.D - Surround Sound",
+    "filename": "J.I.D - Surround Sound.mp3",
+    "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/J.I.D%20-%20Surround%20Sound.mp3"
+}
+
+{
+    "name":"J.I.D - Off Deez ft. J. Cole",
+    "filename": "J.I.D - Off Deez ft. J. Cole.mp3",
+    "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/J.I.D%20-%20Off%20Deez%20ft.%20J.%20Cole.mp3"
+}
