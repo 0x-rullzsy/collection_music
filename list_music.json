@@ -1,152 +1,42 @@
 [
-    {
-        "name": "A7X - A Little Piece Of Heaven",
-        "filename": "A7X - A Little Piece Of Heaven.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20A%20Little%20Piece%20Of%20Heaven.mp3"
-    },
-    {
-        "name": "A7X - Afterlife",
-        "filename": "A7X - Afterlife.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Afterlife.mp3"
-    },
-    {
-        "name": "A7X - Dear God",
-        "filename": "A7X - Dear God.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Dear%20God.mp3"
-    },
-    {
-        "name": "A7X - Hail To The King",
-        "filename": "A7X - Hail To The King.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Hail%20To%20The%20King.mp3"
-    },
-    {
-        "name": "A7X - Nightmare",
-        "filename": "A7X - Nightmare.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Nightmare.mp3"
-    },
-    {
-        "name": "A7X - Seize The Day",
-        "filename": "A7X - Seize The Day.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Seize%20The%20Day.mp3"
-    },
-    {
-        "name": "A7X - So Far Away",
-        "filename": "A7X - So Far Away.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20So%20Far%20Away.mp3"
-    },
-    {
-        "name": "Blackout - Selalu Ada",
-        "filename": "Blackout - Selalu Ada.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Blackout%20-%20Selalu%20Ada.mp3"
-    },
-    {
-        "name": "Fiesta De La Noche",
-        "filename": "Fiesta De La Noche.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Fiesta%20De%20La%20Noche.mp3"
-    },
-    {
-        "name": "Firman - Kehilangan",
-        "filename": "Firman - Kehilangan.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Firman%20-%20Kehilangan.mp3"
-    },
-    {
-        "name": "For Revenge - Ada Selamanya",
-        "filename": "For Revenge - Ada Selamanya.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Ada%20Selamanya.mp3"
-    },
-    {
-        "name": "For Revenge - Jakarta Hari Ini",
-        "filename": "For Revenge - Jakarta Hari Ini.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Jakarta%20Hari%20Ini.mp3"
-    },
-    {
-        "name": "For Revenge - Jentaka",
-        "filename": "For Revenge - Jentaka.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Jentaka.mp3"
-    },
-    {
-        "name": "For Revenge - Penyangkalan",
-        "filename": "For Revenge - Penyangkalan.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Penyangkalan.mp3"
-    },
-    {
-        "name": "For Revenge - Pulang",
-        "filename": "For Revenge - Pulang.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Pulang.mp3"
-    },
-    {
-        "name": "For Revenge - Sadrah",
-        "filename": "For Revenge - Sadrah.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Sadrah.mp3"
-    },
-    {
-        "name": "For Revenge - Serana",
-        "filename": "For Revenge - Serana.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Serana.mp3"
-    },
-    {
-        "name": "For Revenge - Termentahkan",
-        "filename": "For Revenge - Termentahkan.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Termentahkan.mp3"
-    },
-    {
-        "name": "IKLIM - Mimpi Yang Hilang",
-        "filename": "IKLIM - Mimpi Yang Hilang.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/IKLIM%20-%20Mimpi%20Yang%20Hilang.mp3"
-    },
-    {
-        "name": "J.I.D - Off Deez ft. J. Cole",
-        "filename": "J.I.D - Off Deez ft. J. Cole.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/J.I.D%20-%20Off%20Deez%20ft.%20J.%20Cole.mp3"
-    },
-    {
-        "name": "J.I.D - Surround Sound",
-        "filename": "J.I.D - Surround Sound.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/J.I.D%20-%20Surround%20Sound.mp3"
-    },
-    {
-        "name": "Judika - Aku Yang Tersakiti",
-        "filename": "Judika - Aku Yang Tersakiti.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Judika%20-%20Aku%20Yang%20Tersakiti.mp3"
-    },
-    {
-        "name": "King Von - Armed Dangerous",
-        "filename": "King Von - Armed Dangerous.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/King%20Von%20-%20Armed%20Dangerous.mp3"
-    },
-    {
-        "name": "NaFF - Akhirnya Ku Menemukanmu",
-        "filename": "NaFF - Akhirnya Ku Menemukanmu.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/NaFF%20-%20Akhirnya%20Ku%20Menemukanmu.mp3"
-    },
-    {
-        "name": "NaFF - Terendap Laraku",
-        "filename": "NaFF - Terendap Laraku.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/NaFF%20-%20Terendap%20Laraku.mp3"
-    },
-    {
-        "name": "No Role Modelz",
-        "filename": "No Role Modelz.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/No%20Role%20Modelz.mp3"
-    },
-    {
-        "name": "Perunggu - 33x",
-        "filename": "Perunggu - 33x.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Perunggu%20-%2033x.mp3"
-    },
-    {
-        "name": "ST12 - Jangan Pernah Berubah",
-        "filename": "ST12 - Jangan Pernah Berubah.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/ST12%20-%20Jangan%20Pernah%20Berubah.mp3"
-    },
-    {
-        "name": "UNGU - Jika Itu Yang Terbaik",
-        "filename": "UNGU - Jika Itu Yang Terbaik.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/UNGU%20-%20Jika%20Itu%20Yang%20Terbaik.mp3"
-    },
-    {
-        "name": "UNGU - Untukmu Selamanya",
-        "filename": "UNGU - Untukmu Selamanya.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/UNGU%20-%20Untukmu%20Selamanya.mp3"
-    }
+    {"name":"A7X - A Little Piece Of Heaven","filename":"A7X - A Little Piece Of Heaven.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20A%20Little%20Piece%20Of%20Heaven.mp3"},
+    {"name":"A7X - Afterlife","filename":"A7X - Afterlife.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Afterlife.mp3"},
+    {"name":"A7X - Dear God","filename":"A7X - Dear God.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Dear%20God.mp3"},
+    {"name":"A7X - Hail To The King","filename":"A7X - Hail To The King.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Hail%20To%20The%20King.mp3"},
+    {"name":"A7X - Nightmare","filename":"A7X - Nightmare.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Nightmare.mp3"},
+    {"name":"A7X - Seize The Day","filename":"A7X - Seize The Day.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20Seize%20The%20Day.mp3"},
+    {"name":"A7X - So Far Away","filename":"A7X - So Far Away.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20So%20Far%20Away.mp3"},
+    {"name":"Blackout - Selalu Ada","filename":"Blackout - Selalu Ada.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Blackout%20-%20Selalu%20Ada.mp3"},
+    {"name":"Disturbed - Stricken","filename":"Disturbed - Stricken.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Disturbed%20-%20Stricken.mp3"},
+    {"name":"Fiesta De La Noche","filename":"Fiesta De La Noche.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Fiesta%20De%20La%20Noche.mp3"},
+    {"name":"Firman - Kehilangan","filename":"Firman - Kehilangan.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Firman%20-%20Kehilangan.mp3"},
+    {"name":"For Revenge - Ada Selamanya","filename":"For Revenge - Ada Selamanya.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Ada%20Selamanya.mp3"},
+    {"name":"For Revenge - Jakarta Hari Ini","filename":"For Revenge - Jakarta Hari Ini.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Jakarta%20Hari%20Ini.mp3"},
+    {"name":"For Revenge - Jentaka","filename":"For Revenge - Jentaka.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Jentaka.mp3"},
+    {"name":"For Revenge - Penyangkalan","filename":"For Revenge - Penyangkalan.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Penyangkalan.mp3"},
+    {"name":"For Revenge - Pulang","filename":"For Revenge - Pulang.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Pulang.mp3"},
+    {"name":"For Revenge - Sadrah","filename":"For Revenge - Sadrah.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Sadrah.mp3"},
+    {"name":"For Revenge - Serana","filename":"For Revenge - Serana.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Serana.mp3"},
+    {"name":"For Revenge - Termentahkan","filename":"For Revenge - Termentahkan.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Termentahkan.mp3"},
+    {"name":"IKLIM - Mimpi Yang Hilang","filename":"IKLIM - Mimpi Yang Hilang.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/IKLIM%20-%20Mimpi%20Yang%20Hilang.mp3"},
+    {"name":"J.I.D - Off Deez ft. J. Cole","filename":"J.I.D - Off Deez ft. J. Cole.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/J.I.D%20-%20Off%20Deez%20ft.%20J.%20Cole.mp3"},
+    {"name":"J.I.D - Surround Sound","filename":"J.I.D - Surround Sound.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/J.I.D%20-%20Surround%20Sound.mp3"},
+    {"name":"Judika - Aku Yang Tersakiti","filename":"Judika - Aku Yang Tersakiti.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Judika%20-%20Aku%20Yang%20Tersakiti.mp3"},
+    {"name":"King Von - Armed Dangerous","filename":"King Von - Armed Dangerous.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/King%20Von%20-%20Armed%20Dangerous.mp3"},
+    {"name":"Limp Bizkit - Break Stuff","filename":"Limp Bizkit - Break Stuff.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Limp%20Bizkit%20-%20Break%20Stuff.mp3"},
+    {"name":"Log - Laid to Rest","filename":"Log - Laid to Rest.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Log%20-%20Laid%20to%20Rest.mp3"},
+    {"name":"Log - Memento","filename":"Log - Memento.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Log%20-%20Memento.mp3"},
+    {"name":"Master of Puppets","filename":"Master of Puppets.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Master%20of%20Puppets.mp3"},
+    {"name":"Mih - Slaughterhouse","filename":"Mih - Slaughterhouse.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Mih%20-%20Slaughterhouse.mp3"},
+    {"name":"NaFF - Akhirnya Ku Menemukanmu","filename":"NaFF - Akhirnya Ku Menemukanmu.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/NaFF%20-%20Akhirnya%20Ku%20Menemukanmu.mp3"},
+    {"name":"NaFF - Terendap Laraku","filename":"NaFF - Terendap Laraku.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/NaFF%20-%20Terendap%20Laraku.mp3"},
+    {"name":"No Role Modelz","filename":"No Role Modelz.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/No%20Role%20Modelz.mp3"},
+    {"name":"Perunggu - 33x","filename":"Perunggu - 33x.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Perunggu%20-%2033x.mp3"},
+    {"name":"Sha - Dustai","filename":"Sha - Dustai.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Sha%20-%20Dustai.mp3"},
+    {"name":"Slipknot - Psychosocial [OFFICIAL VIDEO] [HD]","filename":"Slipknot - Psychosocial [OFFICIAL VIDEO] [HD].mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Slipknot%20-%20Psychosocial%20%5BOFFICIAL%20VIDEO%5D%20%5BHD%5D.mp3"},
+    {"name":"ST12 - Jangan Pernah Berubah","filename":"ST12 - Jangan Pernah Berubah.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/ST12%20-%20Jangan%20Pernah%20Berubah.mp3"},
+    {"name":"System Of A Down - B.Y.O.B","filename":"System Of A Down - B.Y.O.B.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/System%20Of%20A%20Down%20-%20B.Y.O.B.mp3"},
+    {"name":"System Of A Down - Toxicity","filename":"System Of A Down - Toxicity.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/System%20Of%20A%20Down%20-%20Toxicity.mp3"},
+    {"name":"UNGU - Jika Itu Yang Terbaik","filename":"UNGU - Jika Itu Yang Terbaik.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/UNGU%20-%20Jika%20Itu%20Yang%20Terbaik.mp3"},
+    {"name":"UNGU - Untukmu Selamanya","filename":"UNGU - Untukmu Selamanya.mp3","url":"https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/UNGU%20-%20Untukmu%20Selamanya.mp3"}
 ]
