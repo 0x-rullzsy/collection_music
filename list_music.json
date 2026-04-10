@@ -35,14 +35,64 @@
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/A7X%20-%20So%20Far%20Away.mp3"
     },
     {
+        "name": "Baon Cikadap - Asa The Kontol",
+        "filename": "Baon Cikadap - Asa The Kontol.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Baon%20Cikadap%20-%20Asa%20The%20Kontol.mp3"
+    },
+    {
         "name": "Blackout - Selalu Ada",
         "filename": "Blackout - Selalu Ada.mp3",
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Blackout%20-%20Selalu%20Ada.mp3"
     },
     {
+        "name": "BOS - Demon King",
+        "filename": "BOS - Demon King.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/BOS%20-%20Demon%20King.mp3"
+    },
+    {
+        "name": "BOS - Eclipse",
+        "filename": "BOS - Eclipse.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/BOS%20-%20Eclipse.mp3"
+    },
+    {
+        "name": "BOS - EXODUS",
+        "filename": "BOS - EXODUS.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/BOS%20-%20EXODUS.mp3"
+    },
+    {
+        "name": "BUNSU RUSA SAPE DAYAK",
+        "filename": "BUNSU RUSA SAPE DAYAK.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/BUNSU%20RUSA%20SAPE%20DAYAK.mp3"
+    },
+    {
+        "name": "coldplay  - Sparks",
+        "filename": "coldplay  - Sparks.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/coldplay%20%20-%20Sparks.mp3"
+    },
+    {
+        "name": "coldplay - Clocks",
+        "filename": "coldplay - Clocks.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/coldplay%20-%20Clocks.mp3"
+    },
+    {
+        "name": "coldplay - The Scientist",
+        "filename": "coldplay - The Scientist.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/coldplay%20-%20The%20Scientist.mp3"
+    },
+    {
         "name": "Disturbed - Stricken",
         "filename": "Disturbed - Stricken.mp3",
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Disturbed%20-%20Stricken.mp3"
+    },
+    {
+        "name": "DJ GARAM CINA",
+        "filename": "DJ GARAM CINA.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/DJ%20GARAM%20CINA.mp3"
+    },
+    {
+        "name": "Eden Adversary - Lords ov Gehenna",
+        "filename": "Eden Adversary - Lords ov Gehenna.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Eden%20Adversary%20-%20Lords%20ov%20Gehenna.mp3"
     },
     {
         "name": "Ever Slkr - TAKUTU",
@@ -100,6 +150,21 @@
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/For%20Revenge%20-%20Termentahkan.mp3"
     },
     {
+        "name": "Goo Goo Dolls - Iris",
+        "filename": "Goo Goo Dolls - Iris.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Goo%20Goo%20Dolls%20-%20Iris.mp3"
+    },
+    {
+        "name": "Hoobastank - The Reason",
+        "filename": "Hoobastank - The Reason.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Hoobastank%20-%20The%20Reason.mp3"
+    },
+    {
+        "name": "I'm Okay",
+        "filename": "I'm Okay.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/I%27m%20Okay.mp3"
+    },
+    {
         "name": "IKLIM - Mimpi Yang Hilang",
         "filename": "IKLIM - Mimpi Yang Hilang.mp3",
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/IKLIM%20-%20Mimpi%20Yang%20Hilang.mp3"
@@ -135,6 +200,11 @@
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Limp%20Bizkit%20-%20Break%20Stuff.mp3"
     },
     {
+        "name": "LNOE - Green Day",
+        "filename": "LNOE - Green Day.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/LNOE%20-%20Green%20Day.mp3"
+    },
+    {
         "name": "Log - Laid to Rest",
         "filename": "Log - Laid to Rest.mp3",
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Log%20-%20Laid%20to%20Rest.mp3"
@@ -145,9 +215,34 @@
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Log%20-%20Memento.mp3"
     },
     {
+        "name": "LORNA SHORE - To the Hellfire",
+        "filename": "LORNA SHORE - To the Hellfire.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/LORNA%20SHORE%20-%20To%20the%20Hellfire.mp3"
+    },
+    {
         "name": "Luvia Band - Jangan Menangis Untukku",
         "filename": "Luvia Band - Jangan Menangis Untukku.mp3",
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Luvia%20Band%20-%20Jangan%20Menangis%20Untukku.mp3"
+    },
+    {
+        "name": "MAKHLVK - 200 Tusuk",
+        "filename": "MAKHLVK - 200 Tusuk.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/MAKHLVK%20-%20200%20Tusuk.mp3"
+    },
+    {
+        "name": "MAKHLVK - Bukalah Pintu Kota Saranjana",
+        "filename": "MAKHLVK - Bukalah Pintu Kota Saranjana.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/MAKHLVK%20-%20Bukalah%20Pintu%20Kota%20Saranjana.mp3"
+    },
+    {
+        "name": "MAKHLVK - I The King Shall Return",
+        "filename": "MAKHLVK - I The King Shall Return.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/MAKHLVK%20-%20I%20The%20King%20Shall%20Return.mp3"
+    },
+    {
+        "name": "Maya Jasika - Jagung Rebus",
+        "filename": "Maya Jasika - Jagung Rebus.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Maya%20Jasika%20-%20Jagung%20Rebus.mp3"
     },
     {
         "name": "Mettalica - Master of Puppets",
@@ -170,9 +265,24 @@
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/NaFF%20-%20Terendap%20Laraku.mp3"
     },
     {
+        "name": "NIKI - Backburner",
+        "filename": "NIKI - Backburner.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/NIKI%20-%20Backburner.mp3"
+    },
+    {
+        "name": "Nile - Kafir!",
+        "filename": "Nile - Kafir!.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Nile%20-%20Kafir%21.mp3"
+    },
+    {
         "name": "No Role Modelz",
         "filename": "No Role Modelz.mp3",
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/No%20Role%20Modelz.mp3"
+    },
+    {
+        "name": "Oxlade - KU LO SA",
+        "filename": "Oxlade - KU LO SA.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Oxlade%20-%20KU%20LO%20SA.mp3"
     },
     {
         "name": "Perunggu - 33x",
@@ -183,6 +293,16 @@
         "name": "Perunggu - Ini Abadi",
         "filename": "Perunggu - Ini Abadi.mp3",
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Perunggu%20-%20Ini%20Abadi.mp3"
+    },
+    {
+        "name": "Perunggu - Kalibata, 2012",
+        "filename": "Perunggu - Kalibata, 2012.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Perunggu%20-%20Kalibata%2C%202012.mp3"
+    },
+    {
+        "name": "Perunggu - Pikiran Yang Matang",
+        "filename": "Perunggu - Pikiran Yang Matang.mp3",
+        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Perunggu%20-%20Pikiran%20Yang%20Matang.mp3"
     },
     {
         "name": "Sha - Dustai",
@@ -228,25 +348,5 @@
         "name": "UNGU - Untukmu Selamanya",
         "filename": "UNGU - Untukmu Selamanya.mp3",
         "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/UNGU%20-%20Untukmu%20Selamanya.mp3"
-    },
-    {
-        "name": "DJ GARAM CINA",
-        "filename": "DJ GARAM CINA.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/DJ%20GARAM%20CINA.mp3"
-    },
-    {
-        "name": "I'm Okay",
-        "filename": "I'm Okay.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/I%27m%20Okay.mp3"
-    },
-    {
-        "name": "NIKI - Backburner",
-        "filename": "NIKI - Backburner.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/NIKI%20-%20Backburner.mp3"
-    },
-    {
-        "name": "Oxlade - KU LO SA",
-        "filename": "Oxlade - KU LO SA.mp3",
-        "url": "https://raw.githubusercontent.com/0x-rullzsy/collection_music/refs/heads/main/Oxlade%20-%20KU%20LO%20SA.mp3"
     }
 ]
